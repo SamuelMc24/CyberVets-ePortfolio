@@ -5,7 +5,7 @@ Hello! My name is Samuel McLaughlin, and I am currently an intern in the CMS Cyb
 ## Wiki
 
 This is my [home page](https://github.com/SamuelMc24/CyberVets-ePortfolio/wiki) where you can view links to my:
-* [Resume]() 
+* [Resume](https://github.com/SamuelMc24/CyberVets-ePortfolio/wiki/My-Resume) 
 * [LinkedIn Page](https://www.linkedin.com/in/samuel-mclaughlin-45680b23a) 
 * [Projects](https://github.com/SamuelMc24/CyberVets-ePortfolio/projects?type=beta) 
 
